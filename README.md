@@ -27,7 +27,8 @@
     <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://www.vectorlogo.zone/logos/tableau_software/tableau_software-icon.svg" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
+
 
    
     
@@ -40,7 +41,7 @@
 
 <p align="center">
   <b>Current Learning Progress:</b><br/>
-  <img src="https://progress-bar.dev/40/?title=Power%20BI" alt="PowerBI"/>
+  <img src="https://progress-bar.dev/80/?title=Power%20BI" alt="PowerBI"/>
   </p>
 
 
