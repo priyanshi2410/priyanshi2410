@@ -27,7 +27,8 @@
     <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" height="40" style="vertical-align:top; margin:4px">
-   <img src="https://in.images.search.yahoo.com/images/view;_ylt=AwrPqiq8yfJlIVwXkEO9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2U1NTAyMjU0YzNhMWY1Y2ExMDY4YzhjMTAxZjM1OTVlBGdwb3MDMTcEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dtablue%26type%3DE211IN105G91826%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D17&w=1280&h=720&imgurl=financeandbusiness.ucdavis.edu%2Fsites%2Fg%2Ffiles%2Fdgvnsk4871%2Ffiles%2Fstyles%2Fsf_landscape_16x9%2Fpublic%2Fimages%2Farticle%2Ftableau_icon.png%3Fh%3Dc673cd1c%26itok%3DYkUJtGl8&rurl=https%3A%2F%2Ffinanceandbusiness.ucdavis.edu%2Fbia%2Fb-i%2Ftableau%2Fblog%2Fucd-color-palette&size=45.2KB&p=tablue&oid=e5502254c3a1f5ca1068c8c101f3595e&fr2=piv-web&fr=mcafee&tt=Onboarding+the+UC+Davis+Color+Palette+into+Tableau+Desktop+%7C+Finance+...&b=0&ni=21&no=17&ts=&tab=organic&sigr=UC9FspuWV1Ks&sigb=kJzWCvJfcVfQ&sigi=P7Ces3ouWpeN&sigt=HkVb_TEDdd9d&.crumb=gwCQBfsl2qE&fr=mcafee&fr2=piv-web&type=E211IN105G91826" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Tableau_Logo.png" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
+
 
 
    
