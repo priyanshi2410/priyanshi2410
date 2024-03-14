@@ -27,7 +27,7 @@
     <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Tableau_Software_logo.png" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Tableau_Software_logo.svg" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
 
 
 
